@@ -91,3 +91,5 @@ ggplot(usa_time) +
   theme_bw() +
   xlab("Year") +
   ylab("% of American Artists in Garnder that were White")
+
+## Maybe find the change over time of white population
